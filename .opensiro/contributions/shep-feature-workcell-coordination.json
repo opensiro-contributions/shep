@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "shep-feature-workcell-coordination",
+  "original_repository": "shep-ai/shep",
+  "legacy_sources": [
+    "https://github.com/shep-ai/shep/pull/933"
+  ],
+  "title": "Opt-in agent-owned coordination for overlapping feature workcells",
+  "work_state": "DELIVERED",
+  "next_action": "No work while owner_control=PAUSE",
+  "source_revision": null,
+  "native_evidence": [
+    "https://github.com/shep-ai/shep/pull/933"
+  ],
+  "work_branches": [],
+  "external_prs": [
+    "https://github.com/shep-ai/shep/pull/933"
+  ],
+  "last_event_id": null
+}

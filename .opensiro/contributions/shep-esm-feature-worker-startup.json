@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "shep-esm-feature-worker-startup",
+  "original_repository": "shep-ai/shep",
+  "legacy_sources": [
+    "https://github.com/shep-ai/shep/pull/934"
+  ],
+  "title": "Fix ESM feature-worker startup crash",
+  "work_state": "DELIVERED",
+  "next_action": "No work while owner_control=PAUSE",
+  "source_revision": null,
+  "native_evidence": [
+    "https://github.com/shep-ai/shep/pull/934"
+  ],
+  "work_branches": [],
+  "external_prs": [
+    "https://github.com/shep-ai/shep/pull/934"
+  ],
+  "last_event_id": null
+}
